@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "62d3bb3b3bd61930a364f881"
+  },
+  "title": "Книга №1",
+  "ISBN": "ISBN №1",
+  "year": 2006,
+  "number": "",
+  "publisher": "Издательство №1",
+  "literate": "Book",
+  "author": "Автор №1"
+},{
+  "_id": {
+    "$oid": "62d3bb3b3bd61930a364f882"
+  },
+  "title": "Журнал №1",
+  "ISBN": "ISBN №2",
+  "year": 2008,
+  "number": "1",
+  "publisher": "Издательство №2",
+  "literate": "Journal",
+  "author": "Автор №2"
+},{
+  "_id": {
+    "$oid": "62d3bb3b3bd61930a364f883"
+  },
+  "title": "Книга №2",
+  "ISBN": "ISBN №3",
+  "year": 2013,
+  "number": "",
+  "publisher": "Издательство №3",
+  "literate": "Book",
+  "author": "Автор №3"
+},{
+  "_id": {
+    "$oid": "62d3bb3b3bd61930a364f884"
+  },
+  "title": "Книга №3",
+  "ISBN": "ISBN №4",
+  "year": 2018,
+  "number": "",
+  "publisher": "Изательство №1",
+  "literate": "Book",
+  "author": "Автор №4"
+},{
+  "_id": {
+    "$oid": "62d3bb3b3bd61930a364f885"
+  },
+  "title": "Газета №4",
+  "ISBN": "ISBN №5",
+  "year": 2020,
+  "number": "1",
+  "publisher": "Издательство №3",
+  "literate": "Newspaper",
+  "author": "Автор №5"
+}]
